@@ -1,14 +1,14 @@
-# Task 1: Producer-Consumer Model
+# Задача 1: Модель производитель-потребитель
 
-## Description
-This project implements a multi-threaded producer-consumer model using Python's `threading` and `queue`.
+## Описание
+Этот проект реализует многопоточную модель производитель-потребитель с использованием `threading` и `queue` Python.
 
-## How to Run
-Make sure you have Python 3 installed, then run:
+## Как запустить
+Убедитесь, что у вас установлен Python 3, затем запустите:
 
 ```bash
 python main.py
 ```
 
-## Author
-张雅璇
+## Автор
+Чжан Ясюань
